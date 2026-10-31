@@ -7,7 +7,7 @@ Turn 1–5 photos of your friends into a 15-second Tiny Desk style concert video
 **[tinydeskai.studio](https://tinydeskai.studio)** — no signup, guest checkout, $7.99 per video.
 
 
-![Tiny Desk AI Generator](og-default.jpg)
+![Tiny Desk AI Generator](https://raw.githubusercontent.com/zaireprow/tinydesk-ai-generator/main/og-default.jpg)
 
 
 ## What it does
